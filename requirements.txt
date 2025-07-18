@@ -1,0 +1,9 @@
+streamlit
+pandas
+yake
+spacy
+scispacy
+sentence-transformers
+scikit-learn
+xlsxwriter
+openpyxl
